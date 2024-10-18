@@ -3,6 +3,8 @@
 Esta es la descripcion del proyecto
 Puedes ver[mis notas](directorio/mis-notas.md)
 
+**Esta linea lo edito con nano**
+
 Descripcion del proyecto
 ## Sección
 Una lista:
