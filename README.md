@@ -1,4 +1,8 @@
 # bases-prueba
+
+Esta es la descripcion del proyecto
+Puedes ver[mis notas](mis-notas.md)
+
 Descripcion del proyecto
 ## Sección
 Una lista:
